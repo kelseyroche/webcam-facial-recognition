@@ -40,7 +40,7 @@ import WebcamFeed from './components/WebcamFeed';
 const App: React.FC = () => {
   return (
     <div>
-      <h1>Facial Recognition App</h1>
+      {/* <h1>Facial Recognition App</h1> */}
       <WebcamFeed />
     </div>
   );
